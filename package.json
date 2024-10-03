@@ -19,6 +19,7 @@
     "express": "^4.21.0",
     "jsonwebtoken": "^9.0.2",
     "mailtrap": "^3.4.0",
+    "mailtrap-client": "^1.1.1",
     "mongoose": "^8.7.0"
   },
   "devDependencies": {
